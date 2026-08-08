@@ -1,2 +1,5 @@
-anthropic>=0.110.0
-python-dotenv>=1.0.0
+fastapi
+uvicorn[standard]
+anthropic
+python-dotenv
+pydantic
